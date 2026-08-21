@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "PulseGuard",
+  "version": "1.0.0",
+  "description": "Experimental physiological analysis for deepfake research.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
